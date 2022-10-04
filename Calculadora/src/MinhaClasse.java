@@ -3,5 +3,7 @@ public class MinhaClasse {
             System.out.println("Oi Diego, fui executado pelo Terminal");
         }
         
+
+        
     }
 
