@@ -1,6 +1,5 @@
 public class Usuário {
-    public static void main(String[] args) throws Exception {
-    
+        
         SmartTV smartTV = new SmartTV();
     
         smartTV.diminuirVolume();
@@ -32,4 +31,4 @@ public class Usuário {
     }
 
 
-}
+
